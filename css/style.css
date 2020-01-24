@@ -381,12 +381,11 @@ ol {
 .logo {
 	float: left;
 	width: 15%;
-
 }
 
 .logo a {
-	display:inline-block;
-		
+	display: inline-block;
+	
 }
 
 .nav-menu {
