@@ -133,8 +133,8 @@ ol {
 }
 
 .spad {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 10px;
+	padding-bottom: 20px;
 }
 
 .spad-2 {
@@ -329,6 +329,41 @@ ol {
 /*---------------------
   Header
 -----------------------*/
+
+
+.about-img {
+  
+  transition: transform .6s; /* Animation */
+	padding-top: 30px;
+ 
+}
+
+.about-img:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .header-section {
 	padding-top: 40px;
@@ -697,6 +732,7 @@ ol {
 
 .home-about {
 	background: #ffffff;
+	
 }
 
 .about-text {
