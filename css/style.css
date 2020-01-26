@@ -347,7 +347,24 @@ ol {
 
 
 
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:limegreen;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
 
+.my-float{
+	margin-top:16px;
+}
 
 
 
@@ -367,7 +384,7 @@ ol {
 
 .header-section {
 	padding-top: 40px;
-	position: absolute;
+	position: fixed;
 	left: 0;
 	top: 0;
 	width: 100%;
@@ -377,7 +394,7 @@ ol {
 }
 
 .header-section.header-normal {
-	position: relative;
+/*	position: fixed;*/
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -386,7 +403,7 @@ ol {
 }
 
 .header-section.header-normal .logo {
-	padding: 40px 0;
+	padding: 25px 0;
 }
 
 .header-section.header-normal .nav-menu .mainmenu ul li a {
@@ -416,15 +433,18 @@ ol {
 .logo {
 	float: left;
 	width: 15%;
+	
 }
 
 .logo a {
 	display: inline-block;
-	
+	margin-right: 20px;
 }
 
 .nav-menu {
 	text-align: center;
+	
+
 }
 
 .nav-menu .mainmenu {
@@ -1734,6 +1754,7 @@ ol {
 
 .breadcrumb-section {
 	padding-bottom: 105px;
+	padding-top: 200px;
 }
 
 .breadcrumb-text {
