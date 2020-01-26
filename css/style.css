@@ -3113,15 +3113,15 @@ ol {
 		font-size: 30px;
 	}
 	.slicknav_menu {
-		text-align: center;
+		text-align: right;
 	}
 	.slicknav_nav {
 		text-align: left;
 	}
 	.logo {
-		float: none;
 		text-align: center;
-		margin-bottom: 10px;
+		margin-bottom: auto;
+		width:35% ;
 	}
 	.slicknav_btn {
 		float: none;
