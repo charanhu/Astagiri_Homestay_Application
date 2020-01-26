@@ -3027,6 +3027,7 @@ ol {
 		display: block;
 		background: transparent;
 		padding: 0;
+		text-align: right;
 	}
 	.slicknav_btn {
 		margin: 0;
