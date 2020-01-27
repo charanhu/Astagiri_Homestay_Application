@@ -3118,8 +3118,8 @@ ol {
 	}
 	.logo {
 		float: left;
-		width: 35%;
-	
+		text-align: left;
+		margin-bottom: 10px;
 	}
 	.slicknav_btn {
 		float: none;
