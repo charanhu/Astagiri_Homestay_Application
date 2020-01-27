@@ -403,11 +403,11 @@ ol {
 }
 
 .header-section.header-normal .logo {
-	padding: 10px 0;
+	padding: 25px 0;
 }
 
 .header-section.header-normal .nav-menu .mainmenu ul li a {
-	padding: 20px 0;
+	padding: 40px 0;
 }
 
 .header-section.header-normal .nav-menu .mainmenu ul li a:after {
@@ -427,7 +427,7 @@ ol {
 }
 
 .header-section.header-normal .top-social {
-	padding: 20px 0;
+	padding: 39px 0;
 }
 
 .logo {
@@ -3122,7 +3122,7 @@ ol {
 		margin-bottom: 10px;
 	}
 	.slicknav_btn {
-		float: none;
+		float: right;
 		display: inline-block;
 	}
 	.slicknav_nav ul {
@@ -3133,10 +3133,10 @@ ol {
 		margin: 0;
 	}
 	.header-normal .slicknav_btn {
-		margin: 0 0 10px 0;
+		margin: 5px 0 10px 0;
 	}
 	.header-section.header-normal .logo {
-		padding: 18px 0 5px;
+		padding: 10px 0 5px;
 	}
 	.single-hero-item .hero-text h1 {
 		font-size: 50px;
