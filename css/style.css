@@ -432,13 +432,10 @@ ol {
 
 .logo {
 	float: left;
-	width: 15%;
-	
 }
 
 .logo a {
 	display: inline-block;
-	margin-right: 20px;
 }
 
 .nav-menu {
@@ -3120,10 +3117,9 @@ ol {
 		text-align: left;
 	}
 	.logo {
-		float: none;
-		text-align: center;
-		margin-bottom: 10px;
+		float: left;
 		width: 35%;
+	
 	}
 	.slicknav_btn {
 		float: none;
