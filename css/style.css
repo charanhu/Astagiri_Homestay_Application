@@ -403,11 +403,11 @@ ol {
 }
 
 .header-section.header-normal .logo {
-	padding: 25px 0;
+	padding: 10px 0;
 }
 
 .header-section.header-normal .nav-menu .mainmenu ul li a {
-	padding: 40px 0;
+	padding: 20px 0;
 }
 
 .header-section.header-normal .nav-menu .mainmenu ul li a:after {
@@ -427,7 +427,7 @@ ol {
 }
 
 .header-section.header-normal .top-social {
-	padding: 39px 0;
+	padding: 20px 0;
 }
 
 .logo {
