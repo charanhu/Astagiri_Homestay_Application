@@ -381,7 +381,6 @@ ol {
 
 
 
-
 .header-section {
 	padding-top: 40px;
 	position: fixed;
@@ -395,7 +394,7 @@ ol {
 }
 
 .header-section.header-normal {
-/*	position: fixed;*/
+
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -1612,7 +1611,7 @@ ol {
 -----------------------*/
 
 .footer-section {
-	background: #151515;
+	background: #ffffff;
 	padding-top: 72px;
 }
 
@@ -1737,7 +1736,10 @@ ol {
 	border-top: 1px solid #0a0a0a;
 	padding: 20px 0;
 	margin-top: 20px;
+	margin-bottom: 50px;
 }
+
+
 
 .copyright-text .ct-inside {
 	font-size: 14px;
@@ -1748,6 +1750,28 @@ ol {
 	font-weight: 600;
 	color: #e4381C;
 }
+
+.footer-call {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: green;
+	color: white;
+	text-align: center;
+ }
+
+ .footer-call .ct-inside {
+	font-size: 14px;
+	color: white;
+}
+
+.footer-call .ct-inside a {
+	font-weight: 600;
+	color: white;
+}
+ 
+
 
 /* ----------------------------------- Other Pages Styles ------------------------------*/
 
